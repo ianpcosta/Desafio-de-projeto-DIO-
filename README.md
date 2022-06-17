@@ -1,0 +1,2 @@
+# Desafio-de-projeto-DIO-
+O primeiro desafio de projeto do Bootcamp Fullstack da TQI consiste em dar os primeiros passos na utilização do software de repositório local GIT, assim como na utilização do repositório em nuvem GitHub. Sendo assim, este repositório compreende as anotações acerca do nível introdutório de sua utilização bem como sua criação, utilização e principais comandos a serem utilizados.
