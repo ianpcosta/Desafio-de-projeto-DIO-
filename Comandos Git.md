@@ -1,49 +1,49 @@
-#Comandos do Git Bash
+# Comandos do Git Bash
 
-###Os comandos aqui apresentados servem de utilização para o software Git Bash, repositório local de máquina.
+### Os comandos aqui apresentados servem de utilização para o software Git Bash, repositório local de máquina.
 
-##Criar novo repositório
+## Criar novo repositório
 
-####git init
+#### git init
 
-##Verificar estado dos arquivos/diretórios
+## Verificar estado dos arquivos/diretórios
 
-####git status
+#### git status
 
-##Adicionar arquivo/diretório (staged area)
+## Adicionar arquivo/diretório (staged area)
 
-###Adicionar um arquivo em específico
+### Adicionar um arquivo em específico
 
-####git add meu_arquivo.txt
+#### git add meu_arquivo.txt
 
-###Adicionar um diretório em específico
+### Adicionar um diretório em específico
 
-####git add meu_diretorio
+#### git add meu_diretorio
 
-###Adicionar todos os arquivos/diretórios
+### Adicionar todos os arquivos/diretórios
 
-####git add .	
+#### git add .	
 
-##Comitar arquivo/diretório
+## Comitar arquivo/diretório
 
-###Comitar um arquivo
+### Comitar um arquivo
 
-####git commit meu_arquivo.txt
+#### git commit meu_arquivo.txt
 
-###Comitar vários arquivos
+### Comitar vários arquivos
 
-####git commit meu_arquivo.txt meu_outro_arquivo.txt
+#### git commit meu_arquivo.txt meu_outro_arquivo.txt
 
-###Comitar informando mensagem
+### Comitar informando mensagem
 
-####git commit meuarquivo.txt -m "minha mensagem de commit"
+#### git commit meuarquivo.txt -m "minha mensagem de commit"
 
-##Remover arquivo/diretório
+## Remover arquivo/diretório
 
-###Remover arquivo
+### Remover arquivo
 
-####git rm meu_arquivo.txt
+#### git rm meu_arquivo.txt
 
-###Remover diretório
+### Remover diretório
 
-####git rm -r diretorio
+#### git rm -r diretorio
